@@ -1,6 +1,4 @@
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/mejbauddin/University-Student-Management-System/refs/heads/main/PDF-Image/1%20(1).jpg?raw=true" align="center"/>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/mejbauddin/University-Student-Management-System/refs/heads/main/PDF-Image/1%20(1).jpg?raw=true" align="center"/>
 # University Student Management System (USMS)
 =========================================
 C++ PROGRAMMINGLANGUAGEANDPRACTICE
@@ -56,3 +54,14 @@ V. MAINTENANCE
 
 1. Version: 1.0.0
 2. Last Updated: [29/06/2025]
+
+
+
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/mejbauddin/University-Student-Management-System/refs/heads/main/PDF-Image/1%20(1).jpg?raw=true" align="center"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/mejbauddin/University-Student-Management-System/refs/heads/main/PDF-Image/1%20(2).jpg?raw=true" align="center"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/mejbauddin/University-Student-Management-System/refs/heads/main/PDF-Image/1%20(3).jpg?raw=true" align="center"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/mejbauddin/University-Student-Management-System/refs/heads/main/PDF-Image/1%20(4).jpg?raw=true" align="center"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/mejbauddin/University-Student-Management-System/refs/heads/main/PDF-Image/1%20(5).jpg?raw=true" align="center"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/mejbauddin/University-Student-Management-System/refs/heads/main/PDF-Image/1%20(6).jpg?raw=true" align="center"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/mejbauddin/University-Student-Management-System/refs/heads/main/PDF-Image/1%20(7).jpg?raw=true" align="center"/>
