@@ -1,9 +1,7 @@
-# University-Student-Management-System
-C++ PROGRAMMINGLANGUAGEANDPRACTICE
 
-
-University Student Management System (USMS)
+# University Student Management System (USMS)
 =========================================
+C++ PROGRAMMINGLANGUAGEANDPRACTICE
 
 I. COMPILATION INSTRUCTIONS
 
